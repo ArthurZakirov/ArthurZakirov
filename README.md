@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2021<br>📚 I'm currently learning: decision making<br>🎯 Goals: to learn for a living<br>🎲 Fun fact: I talk to chatGPT in python instead of in english</p>
+<p align="left">✨ Creating bugs since: 2021<br>📚 I'm currently learning: optimal decision making & value creation <br>🎯 Goals: to learn for a living<br>🎲 Fun fact: I talk to chatGPT in python instead of in english</p>
 
 ###
 
