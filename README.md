@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 do you have more Data work than you can handle?</h1>
+<h1 align="left">Do you have more Data work than you can handle?</h1>
 
 ###
 
