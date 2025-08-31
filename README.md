@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2021<br> <br>🎲 Fun fact: I talk to chatGPT in python instead of in english</p>
+<p align="left">✨ Creating bugs since: 2021<br> 💼 Data-/AI-Engineer— 1 year in VC-backed scale-ups, shipping data pipelines and internal web apps (Python, SQL, AWS/Azure) <br>🎲 Fun fact: I talk to chatGPT in python instead of in english</p>
 
 ###
 
