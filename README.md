@@ -1,55 +1,17 @@
-<h1 align="left">Do you have more Data work than you can handle?</h1>
+# Personal Automation Lab
 
-###
+I build practical tools for problems I run into in my own life.
 
-<p align="left">My name is Arthur Zakirov and I'm a tech enthusiast, from Augsburg!</p>
+Right now, most of my work is around agentic AI systems and browser-based automation: agents that can help with apartment search, profile/resume workflows, research, shopping, paperwork, and other high-friction personal tasks.
 
-###
+I’m especially interested in workflows where:
 
-<h2 align="left">About me</h2>
+- work starts on a phone but continues later on a computer
+- agents run on a VPS and can be controlled through chat
+- browser tasks can be automated safely and repeatably
+- small personal tools can remove recurring friction
+- a solution built for myself might become useful to someone else
 
-###
+This GitHub is not my employer’s work and does not represent private company code.
 
-<p align="left">✨ Creating bugs since: 2021<br> 💼 Data-/AI-Engineer— 1 year in VC-backed scale-ups, shipping data pipelines and internal web apps (Python, SQL, AWS/Azure) <br>🎲 Fun fact: I talk to chatGPT in python instead of in english</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
+It is a public lab for useful experiments.
