@@ -8,7 +8,11 @@ I’m especially interested in workflows where:
 - agents run on a VPS and can be controlled through chat
 - browser tasks can be automated safely and repeatably
 - small personal tools can remove recurring friction
-- a solution built for myself might become useful to someone else
+
+The goal is simple:
+
+> If I solve a real problem for myself and the solution might help someone else, I try to make it shareable.
+
 
 This GitHub is not my employer’s work and does not represent private company code.
 
