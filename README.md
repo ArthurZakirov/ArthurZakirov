@@ -1,5 +1,3 @@
-# Personal Automation Lab
-
 I build practical tools for problems I run into in my own life.
 
 Right now, most of my work is around agentic AI systems and browser-based automation: agents that can help with apartment search, profile/resume workflows, research, shopping, paperwork, and other high-friction personal tasks.
