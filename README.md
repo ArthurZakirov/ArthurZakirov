@@ -1,19 +1,35 @@
-I build practical tools for problems I run into in my own life.
+# Hi, I'm Arthur
 
-Right now, most of my work is around agentic AI systems and browser-based automation: agents that can help with apartment search, profile/resume workflows, research, shopping, paperwork, and other high-friction personal tasks.
+I build practical automation systems for browser-heavy workflows, AI-agent workstations, engineering methods, and public-safe career proof.
 
-I’m especially interested in workflows where:
+My GitHub is organized as a closed-loop operating system I call LoopStack: set up the machine, capture opportunities, solve problems, turn the result into proof, and distribute the reusable parts back across machines.
 
-- work starts on a phone but continues later on a computer
-- agents run on a VPS and can be controlled through chat
-- browser tasks can be automated safely and repeatably
-- small personal tools can remove recurring friction
+![LoopStack ecosystem diagram](assets/ecosystem-loop.png)
 
-The goal is simple:
+## Start Here
 
-> If I solve a real problem for myself and the solution might help someone else, I try to make it shareable.
+- **[AgentDesk](https://github.com/ArthurZakirov/AgentDesk)** - workstation substrate for human + AI collaboration.
+- **[OpportunityOS](https://github.com/ArthurZakirov/OpportunityOS)** - external opportunity intake and routing for browser-heavy workflows.
+- **[SystemSmith](https://github.com/ArthurZakirov/SystemSmith)** - engineering methods for code, agents, docs, security, and architecture.
+- **[ProofStack](https://github.com/ArthurZakirov/ProofStack)** - public-safe career proof, positioning, and writing systems.
+- **[SkillPort](https://github.com/ArthurZakirov/SkillPort)** - packaging and distribution backbone for reusable skills across machines and repos.
+- **[Website / blog](https://arthur-zakirov.vercel.app)** - public writing, case studies, and portfolio material.
 
+## Current Focus
 
-This GitHub is not my employer’s work and does not represent private company code.
+- Making the loop explicit so each repo has one job and one audience.
+- Turning solved work into reusable skills that sync across machines.
+- Keeping the public layer safe to share while preserving enough proof to be credible.
 
-It is a public lab for useful experiments.
+## Writing
+
+- **[Website / blog](https://arthur-zakirov.vercel.app/blog)** - public-safe articles, notes, and project context.
+
+## Background
+
+- Data/AI engineer oriented toward practical systems and automation.
+- Public projects are the visible layer; private employer work stays private.
+
+## Connect
+
+[Website](https://arthur-zakirov.vercel.app) · [LinkedIn](https://www.linkedin.com/in/arthurzakirov/) · [GitHub](https://github.com/ArthurZakirov)
